@@ -3,7 +3,7 @@ test repo for git + github lesson
 adding a line to the readme
 
 ## Git Workflow
-
+Hey Kels, how are you doing?
 ## Purpose 
 
 -Create a remote repo on GitHub
