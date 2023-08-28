@@ -2,6 +2,8 @@
 test repo for git + github lesson
 adding a line to the readme
 
+## Git Workflow
+
 ## Purpose 
 
 -Create a remote repo on GitHub
