@@ -4,7 +4,7 @@ adding a line to the readme
 
 ## Git Workflow
 Hey Kels, how are you doing?
-## Purpose 
+## Purpose
 
 -Create a remote repo on GitHub
 -Practice git workflow 
