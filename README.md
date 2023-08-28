@@ -1,5 +1,6 @@
 # kwan_test
 test repo for git + github lesson
+adding a line to the readme
 
 ## Purpose 
 
